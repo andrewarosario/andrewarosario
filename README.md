@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Andrew Rosário, possuo experiência como desenvolvedor há mais de 6 anos e sou apaixonado por tecnologia e programação. Atualmente atuo como Tech Lead na Equipe de Desenvolvimento Web do [Cuca Fresca](https://github.com/cuca-fresca). 
+Me chamo Andrew Rosário, possuo experiência como desenvolvedor há mais de 6 anos e sou apaixonado por tecnologia e programação. Atualmente atuo como Desenvolvedor Web na Shift. 
 
 Tenho um grande prazer em aprender e compartilhar meu conhecimento criando conteúdos para a comunidade a partir de cursos e artigos.
 
