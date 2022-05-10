@@ -1,6 +1,6 @@
 ## Olá! 👋
 
-Me chamo Andrew Rosário, possuo experiência como desenvolvedor há mais de 6 anos e sou apaixonado por tecnologia e programação. Atualmente com foco no desenvolvimento Front-end com o framework Angular.
+Me chamo Andrew Rosário, possuo experiência como desenvolvedor há mais de 7 anos e sou apaixonado por tecnologia e programação. Atualmente com foco no desenvolvimento Front-end com o framework Angular.
 
 Tenho um grande prazer em aprender e compartilhar meu conhecimento criando conteúdos para a comunidade a partir de cursos, artigos e palestras.
 
