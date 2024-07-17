@@ -2,7 +2,7 @@
 
 Me chamo Andrew Rosário, sou desenvolvedor com mais de 9 anos de experiência, mentor e palestrante. Tenho um grande prazer em aprender e compartilhar meu conhecimento criando conteúdos para a comunidade a partir de cursos, artigos e palestras.
 
-Já atuei em diversos projetos Web para várias empresas, com foco no desenvolvimento frontend utilizando o Framework Angular. Nesses projetos, liderei iniciativas, e atuei como mentor, disseminando boas práticas de desenvolvimento, sempre priorizando arquitetura, boas práticas, escalabilidade, performance e acessibilidade.
+Já atuei em diversos projetos Web para várias empresas, com foco no desenvolvimento frontend. Nesses projetos, liderei iniciativas, e atuei como mentor, disseminando boas práticas de desenvolvimento, sempre priorizando arquitetura, boas práticas, escalabilidade, performance e acessibilidade.
 
 Atuo também como mentor de Frontend e Angular, auxiliando pessoas desenvolvedoras a alavancar suas carreiras por meio de aulas técnicas semanais.
 
